@@ -7,8 +7,8 @@
 
 ## How to set up Github Pages with GoDaddy domains?
 
-- A
-- B
+- https://medium.com/@supriyakankure/how-to-add-a-custom-domain-to-your-github-page-with-godaddy-84495781143e
+- https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b
 
 ## How to set up Github Pages with Google domains?
 
