@@ -3,7 +3,7 @@
 ## Urls
 
 - http://www.cheermaps.com
-- https://cheermaps.github.io/ (not recommended)
+- https://cheermaps.github.io (not recommended)
 
 ## How to set up Github Pages with GoDaddy domains?
 
